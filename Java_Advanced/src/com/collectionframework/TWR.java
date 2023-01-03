@@ -11,9 +11,9 @@ public class TWR {
 			
 			String text;
 			
-			while((text.))
+			//while((text.))
 				
-				byte arr[] = text.getBytes();
+			//	byte arr[] = text.getBytes();
 		}catch(Exception ex){
 			
 		}
