@@ -2,3 +2,52 @@ https://github.com/ArghyaSengupta/JavaBasics/tree/main/MyfirstJava
 
 Final class is immutable 
 String is built in immutable
+
+Greedy
+
+step 1: copy ele of a[4] to new array
+step 2: copy ele of a[3] to new array
+step 3: check for duplicates in the using a set and remove
+
+
+step 1:create a new set 
+step 2:add elements of a[3] and a[4] to the set 
+step 3: iterate through the set and add the elements to a new array which is of size of the set.
+
+ 
+
+DP
+step 1: using loop add the characters to a new string in the reverse order 
+step 2: compare using equals if both the strings match or not
+
+
+
+step1: create a string builder and append the string to it.
+step2: using the in built reverse func on the string builder
+step3: compare the two strings if equal 
+
+
+
+
+BT
+reversing a square matrix
+
+step1: take the start and end of the row i .e i=0 and j=n-1
+step2: take a loop for the columns of the matrix 
+step3: until i<j is true swap the elements of the row and proceed with next row 
+
+
+Binary addition
+
+i=0,j=0
+if(i==j && i==0)
+if(carry=0) res+=0
+else res=1
+if(i==j && i==1)
+if(carry=0) res+=0 carry=1
+else 
+
+return 10
+if(i!=j)
+return 1
+
